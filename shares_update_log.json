@@ -1,0 +1,192 @@
+[
+  {
+    "timestamp": "2026-08-20 10:08:12",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:12",
+    "level": "INFO",
+    "message": "每月股本数据更新任务启动"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:12",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:12",
+    "level": "INFO",
+    "message": "Tushare 初始化成功"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:13",
+    "level": "INFO",
+    "message": "目标数据日期: 20260819"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:13",
+    "level": "INFO",
+    "message": "[方案A] daily_basic(trade_date=20260819) ..."
+  },
+  {
+    "timestamp": "2026-08-20 10:08:15",
+    "level": "WARN",
+    "message": "  ❌ 失败: 抱歉，您访问接口(daily_basic)频率超限(1次/小时)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:15",
+    "level": "INFO",
+    "message": "[方案B] stock_basic() ..."
+  },
+  {
+    "timestamp": "2026-08-20 10:08:17",
+    "level": "WARN",
+    "message": "  ❌ 失败: 抱歉，您访问接口(stock_basic)频率超限(1次/小时)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+  },
+  {
+    "timestamp": "2026-08-20 10:08:17",
+    "level": "WARN",
+    "message": "方案A+B均失败，启动逐只获取..."
+  },
+  {
+    "timestamp": "2026-08-20 10:08:18",
+    "level": "ERROR",
+    "message": "股票列表获取失败: 抱歉，您访问接口(stock_basic)频率超限(1次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+  },
+  {
+    "timestamp": "2026-08-20 11:36:55",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 11:36:55",
+    "level": "INFO",
+    "message": "每月股本数据更新任务启动"
+  },
+  {
+    "timestamp": "2026-08-20 11:36:55",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 11:36:55",
+    "level": "INFO",
+    "message": "Tushare 初始化成功"
+  },
+  {
+    "timestamp": "2026-08-20 11:36:55",
+    "level": "INFO",
+    "message": "现有缓存: 5 只股票, 数据日期 20260819, 更新日期 20260820"
+  },
+  {
+    "timestamp": "2026-08-20 11:36:55",
+    "level": "INFO",
+    "message": "缓存数据日期 20260819 距今 1 天，足够新，跳过"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:03",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:03",
+    "level": "INFO",
+    "message": "每月股本数据更新任务启动"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:03",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:03",
+    "level": "INFO",
+    "message": "Tushare 初始化成功"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:04",
+    "level": "INFO",
+    "message": "目标数据日期: 20260819"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:04",
+    "level": "INFO",
+    "message": "[方案A] daily_basic(trade_date=20260819) ..."
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "  ✅ 成功: 5541 只股票"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "💾 缓存已保存: /home/markwang/.qlib/shares_cache.pkl"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "   5541 只股票, 数据日期 20260819"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "任务完成!"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "股票数: 5541"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "数据日期: 20260819"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "缓存文件: /home/markwang/.qlib/shares_cache.pkl"
+  },
+  {
+    "timestamp": "2026-08-20 11:37:06",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-09-01 00:00:30",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-09-01 00:00:30",
+    "level": "INFO",
+    "message": "每月股本数据更新任务启动"
+  },
+  {
+    "timestamp": "2026-09-01 00:00:30",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-09-01 00:00:30",
+    "level": "INFO",
+    "message": "Tushare 初始化成功"
+  },
+  {
+    "timestamp": "2026-09-01 00:00:30",
+    "level": "INFO",
+    "message": "现有缓存: 5541 只股票, 数据日期 20260819, 更新日期 20260820"
+  },
+  {
+    "timestamp": "2026-09-01 00:00:30",
+    "level": "INFO",
+    "message": "缓存数据日期 20260819 距今 13 天，足够新，跳过"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "coverage": {
+      "total_csv": 5514,
+      "has_today_data": 5511,
+      "missing_today": 3,
+      "empty_csv": 0
+    },
+    "anomaly_check": {
+      "sampled": 500,
+      "null_values": 0,
+      "negative_prices": 0,
+      "duplicate_dates": 0,
+      "price_gap_gt_20pct": 3,
+      "samples": [
+        "001211: -25.0%",
+        "001223: -23.6%",
+        "001238: -30.4%"
+      ]
+    },
+    "dedup": {
+      "duplicate_rows_found": 0,
+      "csvs_affected": 0
+    },
+    "qlib_cache": {
+      "rows": 6192680,
+      "stocks": 5514,
+      "date_min": "20210506",
+      "date_max": "20260604",
+      "includes_today": true
+    },
+    "qlib_calendar": {
+      "error": "Please run qlib.init() first using qlib"
+    }
+  }
+}

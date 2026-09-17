@@ -1,0 +1,18 @@
+{
+  "status": "running",
+  "start_time": "2026-05-08T06:42:08.431099",
+  "phase": "下载日期 20260427 (18/23)",
+  "total_stocks": 5494,
+  "total_dates": 23,
+  "current_date_idx": 18,
+  "current_date": "20260427",
+  "downloaded_count": 96879,
+  "failed_count": 2969,
+  "csv_saved": 0,
+  "bin_converted": 0,
+  "percent": 82.5,
+  "elapsed_seconds": 8937,
+  "eta_seconds": 1895,
+  "last_update": "2026-05-08T09:11:05.735610",
+  "errors": []
+}

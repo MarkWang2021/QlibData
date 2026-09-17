@@ -1,0 +1,327 @@
+[
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "A股数据批量下载任务启动 (增量版)"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "日期范围: 20260401 ~ 20260507"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "使用已有instruments文件: /home/markwang/.qlib/qlib_data/cn_data/instruments/all.txt"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "读取到 5494 只股票"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "获取交易日历: 20260401 ~ 20260507"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "交易日数量: 23"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "总任务: 5494只股票 × 23个交易日"
+  },
+  {
+    "timestamp": "2026-05-08 20:45:49",
+    "level": "INFO",
+    "message": "[1/23] 下载 20260401..."
+  },
+  {
+    "timestamp": "2026-05-08 21:04:02",
+    "level": "WARN",
+    "message": "  20260401 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 21:04:04",
+    "level": "INFO",
+    "message": "[2/23] 下载 20260402..."
+  },
+  {
+    "timestamp": "2026-05-08 21:21:19",
+    "level": "WARN",
+    "message": "  20260402 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 21:21:21",
+    "level": "INFO",
+    "message": "[3/23] 下载 20260403..."
+  },
+  {
+    "timestamp": "2026-05-08 21:37:37",
+    "level": "WARN",
+    "message": "  20260403 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 21:37:39",
+    "level": "INFO",
+    "message": "[4/23] 下载 20260407..."
+  },
+  {
+    "timestamp": "2026-05-08 21:54:45",
+    "level": "WARN",
+    "message": "  20260407 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 21:54:47",
+    "level": "INFO",
+    "message": "[5/23] 下载 20260408..."
+  },
+  {
+    "timestamp": "2026-05-08 22:11:19",
+    "level": "INFO",
+    "message": "  20260408 完成: 成功3, 失败5491, CSV增量3"
+  },
+  {
+    "timestamp": "2026-05-08 22:11:21",
+    "level": "INFO",
+    "message": "[6/23] 下载 20260409..."
+  },
+  {
+    "timestamp": "2026-05-08 22:28:06",
+    "level": "WARN",
+    "message": "  20260409 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 22:28:08",
+    "level": "INFO",
+    "message": "[7/23] 下载 20260410..."
+  },
+  {
+    "timestamp": "2026-05-08 22:44:28",
+    "level": "WARN",
+    "message": "  20260410 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 22:44:30",
+    "level": "INFO",
+    "message": "[8/23] 下载 20260413..."
+  },
+  {
+    "timestamp": "2026-05-08 23:01:13",
+    "level": "WARN",
+    "message": "  20260413 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 23:01:15",
+    "level": "INFO",
+    "message": "[9/23] 下载 20260414..."
+  },
+  {
+    "timestamp": "2026-05-08 23:17:28",
+    "level": "WARN",
+    "message": "  20260414 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 23:17:30",
+    "level": "INFO",
+    "message": "[10/23] 下载 20260415..."
+  },
+  {
+    "timestamp": "2026-05-08 23:33:59",
+    "level": "WARN",
+    "message": "  20260415 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 23:34:01",
+    "level": "INFO",
+    "message": "[11/23] 下载 20260416..."
+  },
+  {
+    "timestamp": "2026-05-08 23:50:32",
+    "level": "WARN",
+    "message": "  20260416 无数据"
+  },
+  {
+    "timestamp": "2026-05-08 23:50:34",
+    "level": "INFO",
+    "message": "[12/23] 下载 20260417..."
+  },
+  {
+    "timestamp": "2026-05-09 00:07:18",
+    "level": "WARN",
+    "message": "  20260417 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 00:07:20",
+    "level": "INFO",
+    "message": "[13/23] 下载 20260420..."
+  },
+  {
+    "timestamp": "2026-05-09 00:23:30",
+    "level": "WARN",
+    "message": "  20260420 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 00:23:32",
+    "level": "INFO",
+    "message": "[14/23] 下载 20260421..."
+  },
+  {
+    "timestamp": "2026-05-09 00:39:55",
+    "level": "WARN",
+    "message": "  20260421 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 00:39:57",
+    "level": "INFO",
+    "message": "[15/23] 下载 20260422..."
+  },
+  {
+    "timestamp": "2026-05-09 00:56:04",
+    "level": "WARN",
+    "message": "  20260422 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 00:56:06",
+    "level": "INFO",
+    "message": "[16/23] 下载 20260423..."
+  },
+  {
+    "timestamp": "2026-05-09 01:14:00",
+    "level": "WARN",
+    "message": "  20260423 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 01:14:02",
+    "level": "INFO",
+    "message": "[17/23] 下载 20260424..."
+  },
+  {
+    "timestamp": "2026-05-09 01:29:51",
+    "level": "WARN",
+    "message": "  20260424 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 01:29:53",
+    "level": "INFO",
+    "message": "[18/23] 下载 20260427..."
+  },
+  {
+    "timestamp": "2026-05-09 01:46:30",
+    "level": "WARN",
+    "message": "  20260427 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 01:46:32",
+    "level": "INFO",
+    "message": "[19/23] 下载 20260428..."
+  },
+  {
+    "timestamp": "2026-05-09 02:02:47",
+    "level": "WARN",
+    "message": "  20260428 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 02:02:49",
+    "level": "INFO",
+    "message": "[20/23] 下载 20260429..."
+  },
+  {
+    "timestamp": "2026-05-09 02:19:29",
+    "level": "WARN",
+    "message": "  20260429 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 02:19:31",
+    "level": "INFO",
+    "message": "[21/23] 下载 20260430..."
+  },
+  {
+    "timestamp": "2026-05-09 02:35:55",
+    "level": "WARN",
+    "message": "  20260430 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 02:35:57",
+    "level": "INFO",
+    "message": "[22/23] 下载 20260506..."
+  },
+  {
+    "timestamp": "2026-05-09 02:52:41",
+    "level": "WARN",
+    "message": "  20260506 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 02:52:43",
+    "level": "INFO",
+    "message": "[23/23] 下载 20260507..."
+  },
+  {
+    "timestamp": "2026-05-09 03:08:53",
+    "level": "WARN",
+    "message": "  20260507 无数据"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "更新instruments: 3 只股票"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "开始转换为BIN格式..."
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "  BIN转换进度: 3/3 (成功3)"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "BIN转换完成: 成功 3/3"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "更新BIN instruments: 3 只股票"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "A股数据下载任务完成！"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "CSV文件: 3 个"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "BIN文件: 3 个"
+  },
+  {
+    "timestamp": "2026-05-09 03:08:55",
+    "level": "INFO",
+    "message": "============================================================"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "status": "completed",
+  "start_time": "2026-05-08T20:45:49.308970",
+  "phase": "BIN转换完成",
+  "total_stocks": 5494,
+  "total_dates": 23,
+  "current_date_idx": 23,
+  "current_date": "20260507",
+  "downloaded_count": 3,
+  "failed_count": 126359,
+  "csv_saved": 3,
+  "bin_converted": 3,
+  "percent": 100,
+  "elapsed_seconds": 22984,
+  "eta_seconds": 22984,
+  "last_update": "2026-05-09T03:08:53.520628",
+  "errors": []
+}

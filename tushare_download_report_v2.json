@@ -1,0 +1,510 @@
+{
+  "timestamp": "2026-05-09T11:18:17.915950",
+  "date_range": "20210510 ~ 20260509",
+  "total_stocks": 5491,
+  "downloaded": 4166,
+  "failed": 1325,
+  "total_time_minutes": 84.6,
+  "errors": [
+    {
+      "symbol": "000089",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000090",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000096",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000099",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000100",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000151",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000153",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000155",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000156",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000157",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000158",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000159",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000530",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000531",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000532",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000533",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000534",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000536",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000537",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000538",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000539",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000541",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000543",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000544",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000545",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000546",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000547",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000548",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000626",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000628",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000629",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000630",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000631",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000632",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000633",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000635",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000636",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000637",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000639",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000650",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000651",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000652",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000655",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000656",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000728",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000729",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000731",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000733",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000735",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000736",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000737",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000738",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000739",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000750",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000751",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000752",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000753",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000755",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000756",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000757",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000833",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000837",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000838",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000839",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000848",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000850",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000852",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000856",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000858",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000859",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000860",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000862",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000863",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000868",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000869",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000875",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000938",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000948",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000949",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000950",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000951",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000952",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000953",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000955",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000957",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000958",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000959",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000960",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000962",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000963",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000965",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "000966",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001233",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001234",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001236",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001238",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001239",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001255",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001256",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    },
+    {
+      "symbol": "001257",
+      "name": "",
+      "error": "抱歉，您访问接口(daily)频率超限(50次/分钟)，具体频次详情：https://tushare.pro/document/1?doc_id=108。"
+    }
+  ]
+}

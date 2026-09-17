@@ -1,0 +1,21 @@
+# 敏感配置与密钥
+*.key
+*.pem
+*.env
+config.yaml       # 如果含密钥则排除；若需保留模板可改为 config.example.yaml
+credentials.json
+
+# 缓存与临时文件（通常体积大且无需版本控制）
+cache/
+data_cache/
+lhm_cache/
+*.pkl
+*.parquet
+__pycache__/
+*.pyc
+.logs/
+
+# Qlib 运行时产物
+models/           # 模型权重通常太大，不适合 GitHub
+rolling/
+

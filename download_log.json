@@ -1,0 +1,502 @@
+[
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300780.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 920249.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603387.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002006.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600970.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000950.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002262.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000633.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603041.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 920374.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002140.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603848.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603586.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 688109.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 920580.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002603.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600012.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301309.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300177.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600919.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 001238.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600678.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301363.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300157.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300900.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000692.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 688360.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300644.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002225.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603843.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301235.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 605368.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300721.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600548.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002251.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000887.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301556.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300416.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300743.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 601339.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 688107.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002925.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000089.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300377.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300594.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301096.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301589.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600739.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600782.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002438.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 688286.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603556.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 301119.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600448.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 920015.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 688569.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 001270.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 002879.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 605333.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600452.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300125.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300194.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600540.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 603173.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600198.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000981.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000895.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 300590.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 000837.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600182.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 03:54:39",
+    "level": "ERROR",
+    "message": "转换失败 600901.csv: invalid literal for int() with base 10: '2026-05-07'"
+  },
+  {
+    "timestamp": "2026-05-08 17:00:09",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-05-08 17:00:09",
+    "level": "INFO",
+    "message": "A 股数据定时下载任务启动"
+  },
+  {
+    "timestamp": "2026-05-08 17:00:09",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-05-08 17:00:09",
+    "level": "INFO",
+    "message": "交易日: 20260508"
+  },
+  {
+    "timestamp": "2026-05-08 17:00:09",
+    "level": "INFO",
+    "message": "开始下载 20260508 的 A 股数据"
+  },
+  {
+    "timestamp": "2026-05-08 17:01:16",
+    "level": "INFO",
+    "message": "共 5850 只股票"
+  },
+  {
+    "timestamp": "2026-05-08 17:01:24",
+    "level": "INFO",
+    "message": "进度: 100/5850 | 成功: 100 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:01:32",
+    "level": "INFO",
+    "message": "进度: 200/5850 | 成功: 200 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:01:41",
+    "level": "INFO",
+    "message": "进度: 300/5850 | 成功: 300 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:01:50",
+    "level": "INFO",
+    "message": "进度: 400/5850 | 成功: 400 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:01:59",
+    "level": "INFO",
+    "message": "进度: 500/5850 | 成功: 500 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:02:08",
+    "level": "INFO",
+    "message": "进度: 600/5850 | 成功: 600 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:02:16",
+    "level": "INFO",
+    "message": "进度: 700/5850 | 成功: 700 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:02:25",
+    "level": "INFO",
+    "message": "进度: 800/5850 | 成功: 800 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:02:34",
+    "level": "INFO",
+    "message": "进度: 900/5850 | 成功: 900 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:02:43",
+    "level": "INFO",
+    "message": "进度: 1000/5850 | 成功: 1000 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:02:52",
+    "level": "INFO",
+    "message": "进度: 1100/5850 | 成功: 1100 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:03:04",
+    "level": "INFO",
+    "message": "进度: 1200/5850 | 成功: 1200 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:03:19",
+    "level": "INFO",
+    "message": "进度: 1300/5850 | 成功: 1300 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:03:33",
+    "level": "INFO",
+    "message": "进度: 1400/5850 | 成功: 1400 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:03:48",
+    "level": "INFO",
+    "message": "进度: 1500/5850 | 成功: 1500 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:03:57",
+    "level": "INFO",
+    "message": "进度: 1600/5850 | 成功: 1600 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:04:07",
+    "level": "INFO",
+    "message": "进度: 1700/5850 | 成功: 1700 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:04:16",
+    "level": "INFO",
+    "message": "进度: 1800/5850 | 成功: 1800 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:04:25",
+    "level": "INFO",
+    "message": "进度: 1900/5850 | 成功: 1900 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:04:34",
+    "level": "INFO",
+    "message": "进度: 2000/5850 | 成功: 2000 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:04:44",
+    "level": "INFO",
+    "message": "进度: 2100/5850 | 成功: 2100 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:04:53",
+    "level": "INFO",
+    "message": "进度: 2200/5850 | 成功: 2200 | 失败: 0"
+  },
+  {
+    "timestamp": "2026-05-08 17:05:03",
+    "level": "INFO",
+    "message": "进度: 2300/5850 | 成功: 2300 | 失败: 0"
+  }
+]
