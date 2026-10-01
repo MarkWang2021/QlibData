@@ -188,5 +188,85 @@
     "timestamp": "2026-09-01 00:00:30",
     "level": "INFO",
     "message": "缓存数据日期 20260819 距今 13 天，足够新，跳过"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:12",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:12",
+    "level": "INFO",
+    "message": "每月股本数据更新任务启动"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:12",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:12",
+    "level": "INFO",
+    "message": "Tushare 初始化成功"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:12",
+    "level": "INFO",
+    "message": "现有缓存: 5541 只股票, 数据日期 20260819, 更新日期 20260820"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:14",
+    "level": "INFO",
+    "message": "目标数据日期: 20260930"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:14",
+    "level": "INFO",
+    "message": "[方案A] daily_basic(trade_date=20260930) ..."
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "  ✅ 成功: 5561 只股票"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "💾 缓存已保存: /home/markwang/.qlib/shares_cache.pkl"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "   5561 只股票, 数据日期 20260930"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "任务完成!"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "股票数: 5561"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "数据日期: 20260930"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "缓存文件: /home/markwang/.qlib/shares_cache.pkl"
+  },
+  {
+    "timestamp": "2026-10-01 00:00:16",
+    "level": "INFO",
+    "message": "============================================================"
   }
 ]
