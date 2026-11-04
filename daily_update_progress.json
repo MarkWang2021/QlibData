@@ -1,11 +1,11 @@
 {
-  "last_update": "20261103",
-  "last_update_time": "2026-11-03T20:02:28.623795",
-  "stocks_updated": 5569,
-  "expected_stocks": 5223,
+  "last_update": "20261104",
+  "last_update_time": "2026-11-04T20:02:50.722126",
+  "stocks_updated": 5571,
+  "expected_stocks": 5224,
   "integrity_status": "ok",
-  "missing_pct": -6.6,
+  "missing_pct": -6.7,
   "exdividend_adjusted": 0,
   "total_stocks": 5582,
-  "elapsed_seconds": 132.7
+  "elapsed_seconds": 156.5
 }
