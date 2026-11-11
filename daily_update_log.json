@@ -1,275 +1,5 @@
 [
   {
-    "timestamp": "2026-11-05 20:00:16",
-    "level": "INFO",
-    "message": "开始保存数据到CSV..."
-  },
-  {
-    "timestamp": "2026-11-05 20:00:45",
-    "level": "ERROR",
-    "message": "保存 300137 失败: No columns to parse from file"
-  },
-  {
-    "timestamp": "2026-11-05 20:01:49",
-    "level": "INFO",
-    "message": "保存完成: 新增/更新 5570 只股票"
-  },
-  {
-    "timestamp": "2026-11-05 20:01:49",
-    "level": "INFO",
-    "message": "数据完整性校验:"
-  },
-  {
-    "timestamp": "2026-11-05 20:01:49",
-    "level": "INFO",
-    "message": "  预期: 5224 只"
-  },
-  {
-    "timestamp": "2026-11-05 20:01:49",
-    "level": "INFO",
-    "message": "  实际: 5571 只"
-  },
-  {
-    "timestamp": "2026-11-05 20:01:49",
-    "level": "INFO",
-    "message": "  缺失率: -6.64%"
-  },
-  {
-    "timestamp": "2026-11-05 20:01:49",
-    "level": "INFO",
-    "message": "数据完整性: ✅ 完美"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:03",
-    "level": "INFO",
-    "message": "CSV中已有该日期数据的股票: 5570 只"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:18",
-    "level": "INFO",
-    "message": "新下载数据已保存验证: 5570/5571"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:18",
-    "level": "INFO",
-    "message": "检查当日除权股票..."
-  },
-  {
-    "timestamp": "2026-11-05 20:02:18",
-    "level": "INFO",
-    "message": "分红缓存: 5582 只股票"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:18",
-    "level": "INFO",
-    "message": "除权检查进度: 500/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "WARN",
-    "message": "获取001381分红数据失败: '实施方案公告日期'"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 1000/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 1500/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 2000/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 2500/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 3000/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 3500/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 4000/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 4500/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 5000/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "除权检查进度: 5500/5571, 已发现0只除权"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "今日无除权股票 (检查5571只)"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "更新instruments文件: 5582 只股票"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:19",
-    "level": "INFO",
-    "message": "重建Qlib数据缓存(增量模式)..."
-  },
-  {
-    "timestamp": "2026-11-05 20:02:22",
-    "level": "INFO",
-    "message": "加载现有缓存: 6702440 行, 最新: 20261104"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:22",
-    "level": "INFO",
-    "message": "今日数据: 5217 行, 5217 只"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:36",
-    "level": "INFO",
-    "message": "Qlib缓存增量更新: 6707657 行, 5564 只, 最新: 20261105"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "============================================================"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "任务完成!"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "日期: 20261105"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "下载: 5571 条 (预期5224)"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "保存: 5570 只股票"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "完整性: ok (缺失率-6.6%)"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "除权调整: 0 只"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "总计: 5582 只股票"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "耗时: 141.9 秒"
-  },
-  {
-    "timestamp": "2026-11-05 20:02:37",
-    "level": "INFO",
-    "message": "============================================================"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:10",
-    "level": "INFO",
-    "message": "============================================================"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:10",
-    "level": "INFO",
-    "message": "Tushare A股日线数据每日更新任务启动"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:10",
-    "level": "INFO",
-    "message": "============================================================"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:10",
-    "level": "INFO",
-    "message": "日期: 20261106 (Friday)"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:10",
-    "level": "INFO",
-    "message": "首次获取股票列表 (akshare)..."
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "获取并缓存 5224 只股票 (akshare)"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "开始下载 20261106 日线数据..."
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "从缓存加载 5224 只股票"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "预期股票数: 5224"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "加载股本缓存..."
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "股本缓存已加载: 5571 只股票, 数据日期 20261030"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "请求 pro.daily(trade_date=20261106) ..."
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "pro.daily 返回 5573 条数据"
-  },
-  {
-    "timestamp": "2026-11-06 20:00:17",
-    "level": "INFO",
-    "message": "下载完成: 5573 只股票"
-  },
-  {
     "timestamp": "2026-11-06 20:00:17",
     "level": "INFO",
     "message": "开始保存数据到CSV..."
@@ -996,6 +726,276 @@
   },
   {
     "timestamp": "2026-11-10 20:02:32",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:09",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:09",
+    "level": "INFO",
+    "message": "Tushare A股日线数据每日更新任务启动"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:09",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:09",
+    "level": "INFO",
+    "message": "日期: 20261111 (Wednesday)"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:09",
+    "level": "INFO",
+    "message": "首次获取股票列表 (akshare)..."
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "获取并缓存 5225 只股票 (akshare)"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "开始下载 20261111 日线数据..."
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "从缓存加载 5225 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "预期股票数: 5225"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "加载股本缓存..."
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "股本缓存已加载: 5571 只股票, 数据日期 20261030"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "请求 pro.daily(trade_date=20261111) ..."
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "pro.daily 返回 5574 条数据"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "下载完成: 5574 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:00:16",
+    "level": "INFO",
+    "message": "开始保存数据到CSV..."
+  },
+  {
+    "timestamp": "2026-11-11 20:00:42",
+    "level": "ERROR",
+    "message": "保存 300137 失败: No columns to parse from file"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:40",
+    "level": "INFO",
+    "message": "保存完成: 新增/更新 5573 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:40",
+    "level": "INFO",
+    "message": "数据完整性校验:"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:40",
+    "level": "INFO",
+    "message": "  预期: 5225 只"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:40",
+    "level": "INFO",
+    "message": "  实际: 5574 只"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:40",
+    "level": "INFO",
+    "message": "  缺失率: -6.68%"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:40",
+    "level": "INFO",
+    "message": "数据完整性: ✅ 完美"
+  },
+  {
+    "timestamp": "2026-11-11 20:01:53",
+    "level": "INFO",
+    "message": "CSV中已有该日期数据的股票: 5573 只"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "新下载数据已保存验证: 5573/5574"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "检查当日除权股票..."
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "分红缓存: 5584 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 500/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 1000/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 1500/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 2000/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 2500/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 3000/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 3500/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 4000/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 4500/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 5000/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "WARN",
+    "message": "获取688827分红数据失败: '实施方案公告日期'"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "除权检查进度: 5500/5574, 已发现0只除权"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "今日无除权股票 (检查5574只)"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "更新instruments文件: 5584 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:06",
+    "level": "INFO",
+    "message": "重建Qlib数据缓存(增量模式)..."
+  },
+  {
+    "timestamp": "2026-11-11 20:02:09",
+    "level": "INFO",
+    "message": "加载现有缓存: 6723311 行, 最新: 20261110"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:09",
+    "level": "INFO",
+    "message": "今日数据: 5219 行, 5219 只"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "Qlib缓存增量更新: 6728530 行, 5565 只, 最新: 20261111"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "============================================================"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "任务完成!"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "日期: 20261111"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "下载: 5574 条 (预期5225)"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "保存: 5573 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "完整性: ok (缺失率-6.7%)"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "除权调整: 0 只"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "总计: 5584 只股票"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
+    "level": "INFO",
+    "message": "耗时: 133.9 秒"
+  },
+  {
+    "timestamp": "2026-11-11 20:02:23",
     "level": "INFO",
     "message": "============================================================"
   }
